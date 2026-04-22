@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <h3> Henrietta Barnett School </h3>
+        <img src="HBS Logo.jpeg">
+        <img src="HBS LOGO.png">
+        <p>Founded in 1911 by social reformer Dame Henrietta Barnett, The Henrietta Barnett School in Hampstead Garden Suburb is a prestigious girls' state grammar school. Originally intended to provide high-quality, non-denominational education to girls regardless of financial background, it was built by Sir Edwin Lutyens and has grown from a local institute into a top-performing academy.</p>
+        <style>
+            .website{
+                color: aquamarine;
+                background-color: darkolivegreen;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="website">
+            <p> @all copy-rights reserved </p>
+        </div>
+    </body>
+</html>
