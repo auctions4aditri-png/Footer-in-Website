@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <style>
+        .footer {
+            position: fixed;
+            left: 0;
+            bottom: 0;
+            width: 100%;
+            background-color: black;
+            color: white;
+            text-align: center;
+        }
+    </style>
+    </head>
+    <body>
+        <div class="footer">
+            <p> @all copy-rights reserved </p>
+        </div>
+    </body>
+</html>
